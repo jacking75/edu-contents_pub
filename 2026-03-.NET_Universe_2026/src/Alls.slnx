@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="JokeBot/JokeBot.csproj" />
+  <Project Path="MyAgentApp/MyAgentApp.csproj" />
+  <Project Path="MyAgentApp_AgentThread/MyAgentApp_AgentThread.csproj" />
+  <Project Path="MyAgentApp_AgentThread_MultiUsers/MyAgentApp_AgentThread_MultiUsers.csproj" />
+  <Project Path="MyAgentApp_AIFunction/MyAgentApp_AIFunction.csproj" />
+  <Project Path="MyAgentApp_AIFunctionAgentThread/MyAgentApp_AIFunctionAgentThread.csproj" />
+  <Project Path="MyAgentApp_MultiLLM/MyAgentApp_MultiLLM.csproj" />
+  <Project Path="travelAssistant/travelAssistant.csproj" />
+</Solution>  
